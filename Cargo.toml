@@ -1,0 +1,11 @@
+[package]
+name = "heif"
+version = "0.0.0"
+edition = "2024"
+authors = ["leon <leon@leonrust.com>"]
+description = "HEIF encoding and decoding library implemented in pure Rust"
+license = "MIT"
+repository = "https://github.com/EchoRust/heif"
+keywords = ["HEIF", "HEIC", "image", "encoding", "decoding"]
+
+[dependencies]
