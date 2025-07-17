@@ -4,7 +4,7 @@ version = "0.0.1"
 edition = "2024"
 authors = ["leon <leon@leonrust.com>"]
 description = "HEIF encoding and decoding library implemented in pure Rust"
-license = "LGPL-3.0 license"
+license = "LGPL-3.0"
 repository = "https://github.com/EchoRust/heif"
 keywords = ["HEIF", "HEIC", "image", "encoding", "decoding"]
 
